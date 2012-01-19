@@ -204,6 +204,7 @@
 				GCC_PREFIX_HEADER = LocationDisplay_Prefix.pch;
 				INFOPLIST_FILE = "LocationDisplay-Info.plist";
 				PRODUCT_NAME = LocationDisplay;
+				SDKROOT = iphoneos;
 				VALIDATE_PRODUCT = YES;
 			};
 			name = Release;
